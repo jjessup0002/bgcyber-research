@@ -16,7 +16,7 @@ The current organic footprint is small and largely founder-invitation driven. Hi
 
 ## Most useful current evidence
 
-The 141-observation Bowling Green Facebook sample includes strong engagement around time-bounded family events, planning information, local food/seasonal rituals, sports/community identity, and personality-led local business content. It also shows weak visible response to generic newsletters, vague seasonal copy, routine closure notices, and generic inventory. See `research/bowling-green-market.md` and the formal run.
+The 141-observation Bowling Green Facebook sample includes strong engagement around time-bounded family events, planning information, local food/seasonal rituals, sports/community identity, and personality-led local business content. It also shows weak visible response to generic newsletters, vague seasonal copy, routine closure notices, and generic inventory. A first analogue extension adds Everyday BG, Nashville Guru, Louisville Family Fun, and the BG Chamber's reshare/collaboration guide. See `research/bowling-green-market.md`, `research/competitors-and-analogues.md`, and the formal run.
 
 ## Material uncertainties
 
@@ -35,4 +35,3 @@ The 141-observation Bowling Green Facebook sample includes strong engagement aro
 ## Recent run
 
 - [`2026-09-10-social-brand-foundation`](runs/2026-09-10-social-brand-foundation/): seeded from prior Facebook research; evidence quality is moderate at best and experimentation is now the highest-value next step.
-

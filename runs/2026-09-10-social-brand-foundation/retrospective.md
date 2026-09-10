@@ -12,3 +12,4 @@ Facebook access was uneven; many post permalinks and full comment threads were u
 
 Future runs must capture canonical post URLs whenever practical, explicitly tag comment inspection, separate page/account review from individual post review, and stop external browsing once an internal experiment is the higher-value source of evidence. These rules are incorporated in `AGENTS.md` and `prompts/`.
 
+The first analogue pass yielded stronger architecture insight than more undirected local-feed collection, but publication websites cannot prove social performance. The next pass should be social-native and explicitly compare posts/engagement/disclosure rather than treating guide-site structure as a content-performance proxy.

@@ -4,3 +4,4 @@ The source register contains 29 reviewed Facebook sources/communities; the raw 1
 
 Dates and canonical URLs were retained when captured. Where prior collection recorded only a page reference, the absence of a post permalink is explicitly preserved rather than reconstructed.
 
+External analogue review added [Everyday BG](https://everydaybg.com/), [Nashville Guru](https://nashvilleguru.com/welcome), [Louisville Family Fun](https://louisvillefamilyfun.net/weekend-events), and the [BG Area Chamber 2026 social guide](https://www.bgchamber.com/clientuploads/Social_Media_Guide_2026.pdf). They are primary publisher/organization materials, used for their visible content architecture and operating practices—not as unverified claims about engagement or commercial results.

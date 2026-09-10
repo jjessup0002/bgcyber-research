@@ -16,3 +16,6 @@ Strong attention is sometimes tied to sensitive civic/news content, which is not
 
 Run E-001 and E-002 in `content/experiments.md`; establish a metric baseline before claiming a strategy winner.
 
+## Analogue extension
+
+Fresh analogue evidence identifies a direct Bowling Green-adjacent discovery brand, Everyday BG, that already combines a local guide, evergreen topic pages, a calendar, local deals, social distribution, and sponsor references. The competitive implication is not to copy it; it is to choose a clearer editorial point of view and test a narrower recurring planning/discovery franchise. Regional analogues support category architecture and recurring weekly utility, while the local Chamber guide gives a concrete operational precedent for planned merchant tags, reshares, and collaboration requests.
