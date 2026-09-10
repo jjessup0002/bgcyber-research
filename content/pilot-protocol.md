@@ -15,7 +15,7 @@ Avoid claiming the two posts are scientifically identical. Document unavoidable 
 
 ## Merchant selection guardrails
 
-Choose a mix of businesses that can provide original visuals and a genuine local detail: one food/experience, one family/activities, one retail, one personal/service, and one niche/interest business. Exclude any merchant whose only material is a generic discount graphic.
+Choose a mix of businesses that can provide original visuals and a genuine local detail: one food/experience, one family/activities, one retail, one personal/service, and one niche/interest business. Exclude any merchant whose only material is a generic discount graphic. The current owner-verified slate and individualized drafts are in `pilot-candidates.md`.
 
 ## Measurement
 
@@ -24,4 +24,3 @@ Record 24-hour, 72-hour, and 7-day views/reach, reactions, comments, shares, sav
 ## Decision rule
 
 Do not declare a winner from a single post. Assess the direction across all pairs, separate results by merchant/category, and decide whether to repeat, modify, or reject the hypothesis. A merchant reshare is a distribution outcome, not evidence of consumer preference by itself.
-
